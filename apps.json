@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Subnet Calculator",
+    "description": "Quick CIDR and subnet maths",
+    "url": "https://example.com",
+    "status": "planned"
+  },
+  {
+    "name": "App Dashboard",
+    "description": "This page",
+    "url": "#",
+    "status": "live"
+  }
+]
