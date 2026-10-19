@@ -1,2 +1,2 @@
 # App Dashboard
-dsfsdfsdA dashboard listing all my apps.
+A dashboard listing all my apps.
